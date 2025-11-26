@@ -51,18 +51,17 @@
         "tab": "Getting Started",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Introduction",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Account Types in Missive",
+              "Role-Based Access Control"
             ]
           },
           {
             "group": "Customization",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "get-started/Admin Setup Workflow",
+              "get-started/Creating Admin Accounts in Missive"
             ]
           },
           {
