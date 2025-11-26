@@ -54,7 +54,8 @@
             "group": "Introduction",
             "pages": [
               "Account Types in Missive",
-              "Role-Based Access Control"
+              "Role-Based Access Control",
+              "get-started/test"
             ]
           },
           {
